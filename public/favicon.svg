@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="8" fill="#000"/>
+  <!-- F-22 Raptor top-down silhouette outline -->
+  <g filter="url(#glow)" fill="none" stroke="#00ff66" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Fuselage + nose -->
+    <path d="
+      M 32 6
+      L 29 14
+      L 27 22
+      L 26 28
+      L 25.5 32
+      L 25 38
+      L 24.5 42
+      L 23 48
+      L 22 52
+      L 24 53
+      L 27 54
+      L 29 55
+      L 31 56
+      L 32 57
+      L 33 56
+      L 35 55
+      L 37 54
+      L 40 53
+      L 42 52
+      L 41 48
+      L 39.5 42
+      L 39 38
+      L 38.5 32
+      L 38 28
+      L 37 22
+      L 35 14
+      Z
+    "/>
+    <!-- Left main wing -->
+    <path d="
+      M 26 30
+      L 18 36
+      L 10 40
+      L 7 41
+      L 8 42.5
+      L 12 42
+      L 20 40
+      L 25 38
+    "/>
+    <!-- Right main wing -->
+    <path d="
+      M 38 30
+      L 46 36
+      L 54 40
+      L 57 41
+      L 56 42.5
+      L 52 42
+      L 44 40
+      L 39 38
+    "/>
+    <!-- Left tail fin -->
+    <path d="
+      M 24 48
+      L 17 51
+      L 15 52.5
+      L 17 53
+      L 23 51
+    "/>
+    <!-- Right tail fin -->
+    <path d="
+      M 40 48
+      L 47 51
+      L 49 52.5
+      L 47 53
+      L 41 51
+    "/>
+    <!-- Left vertical stabilizer (canted) -->
+    <path d="
+      M 25 47
+      L 22 46
+      L 21 47
+      L 23 49
+    "/>
+    <!-- Right vertical stabilizer (canted) -->
+    <path d="
+      M 39 47
+      L 42 46
+      L 43 47
+      L 41 49
+    "/>
+    <!-- Cockpit -->
+    <ellipse cx="32" cy="18" rx="2" ry="4"/>
+  </g>
+</svg>
