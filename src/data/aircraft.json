@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "f-22",
+    "name": "F-22 Raptor",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "Lockheed Martin",
+    "role": "Air Superiority",
+    "generation": "5th Gen",
+    "firstFlight": 1997,
+    "introduced": 2005,
+    "topSpeedKmh": 2410,
+    "rangeKm": 2960,
+    "combatRadiusKm": 850,
+    "serviceCeilingM": 20000,
+    "crew": 1,
+    "engines": "2 x Pratt and Whitney F119-PW-100 turbofans",
+    "thrustKn": 312,
+    "radar": "AN/APG-77 AESA radar",
+    "radarRangeKm": 220,
+    "avionics": "Sensor fusion cockpit with integrated electronic warfare suite",
+    "lengthM": 18.9,
+    "wingspanM": 13.56,
+    "emptyWeightKg": 19700,
+    "maxTakeoffWeightKg": 38000,
+    "payloadKg": 8200,
+    "hardpoints": 8,
+    "climbRateMs": 315,
+    "gLimit": 9,
+    "unitCostMUsd": 143,
+    "stealthScore": 10,
+    "description": "The paramount U.S. stealth air superiority fighter. Engineered to dominate contested airspace with sustained supercruise and unmatched agility.",
+    "facts": [
+      "Entered USAF service in 2005.",
+      "Known for sustained supercruise without afterburner.",
+      "Production ended in 2011."
+    ],
+    "operators": [
+      "United States Air Force"
+    ],
+    "programMilestones": [
+      "1991: YF-22 selected in the Advanced Tactical Fighter competition.",
+      "1997: First flight of production-standard development aircraft.",
+      "2005: Initial operational service entry.",
+      "2011: Production line closed."
+    ],
+    "references": [
+      {
+        "label": "USAF Fact Sheet",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104506/f-22-raptor/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor"
+      }
+    ],
+    "wikiTitle": "Lockheed_Martin_F-22_Raptor",
+    "videoQuery": "F-22 Raptor flight demonstration",
+    "featured": true,
+    "modelId": "f22"
+  },
+  {
+    "id": "f-35a",
+    "name": "F-35A Lightning II",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "Lockheed Martin",
+    "role": "Multirole",
+    "generation": "5th Gen",
+    "firstFlight": 2006,
+    "introduced": 2016,
+    "topSpeedKmh": 1930,
+    "rangeKm": 2200,
+    "combatRadiusKm": 1090,
+    "serviceCeilingM": 15240,
+    "crew": 1,
+    "engines": "1 x Pratt and Whitney F135-PW-100 turbofan",
+    "thrustKn": 191,
+    "radar": "AN/APG-81 AESA radar",
+    "radarRangeKm": 150,
+    "avionics": "Distributed aperture system, electro-optical targeting, sensor fusion display",
+    "lengthM": 15.7,
+    "wingspanM": 10.7,
+    "emptyWeightKg": 13300,
+    "maxTakeoffWeightKg": 31800,
+    "payloadKg": 8100,
+    "hardpoints": 10,
+    "climbRateMs": 230,
+    "gLimit": 9,
+    "unitCostMUsd": 82,
+    "stealthScore": 9,
+    "description": "A highly advanced stealth multirole fighter. Built for networked warfare, integrating unmatched sensor fusion with precise global strikes.",
+    "facts": [
+      "Operational in multiple allied air forces.",
+      "Produced in A, B, and C variants.",
+      "One of the largest active fifth-generation fleets."
+    ],
+    "operators": [
+      "United States Air Force",
+      "Royal Air Force",
+      "Italian Air Force",
+      "Japan Air Self-Defense Force",
+      "Royal Norwegian Air Force"
+    ],
+    "programMilestones": [
+      "2001: X-35 selected as JSF winner.",
+      "2006: First flight of F-35A.",
+      "2016: USAF initial operational capability.",
+      "2020s: Wide international fleet expansion."
+    ],
+    "references": [
+      {
+        "label": "Lockheed Martin Program Overview",
+        "url": "https://www.lockheedmartin.com/en-us/products/f-35.html"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+      }
+    ],
+    "wikiTitle": "Lockheed_Martin_F-35_Lightning_II",
+    "videoQuery": "F-35A Lightning II display flight",
+    "featured": true,
+    "modelId": "f35a"
+  },
+  {
+    "id": "rafale-c",
+    "name": "Rafale C",
+    "flag": "FR",
+    "country": "France",
+    "manufacturer": "Dassault Aviation",
+    "role": "Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1986,
+    "introduced": 2001,
+    "topSpeedKmh": 1912,
+    "rangeKm": 3700,
+    "combatRadiusKm": 1850,
+    "serviceCeilingM": 15240,
+    "crew": 1,
+    "engines": "2 x Safran M88 turbofans",
+    "thrustKn": 150,
+    "radar": "RBE2-AA AESA radar",
+    "radarRangeKm": 200,
+    "avionics": "SPECTRA EW suite and integrated mission data processing",
+    "lengthM": 15.3,
+    "wingspanM": 10.9,
+    "emptyWeightKg": 9850,
+    "maxTakeoffWeightKg": 24500,
+    "payloadKg": 9500,
+    "hardpoints": 14,
+    "climbRateMs": 305,
+    "gLimit": 9,
+    "unitCostMUsd": 115,
+    "stealthScore": 6,
+    "description": "France's premier omnirole fighter. Features a highly agile delta-canard design, capable of rapidly switching between air dominance and strike.",
+    "facts": [
+      "Operates from both land and carrier platforms.",
+      "Delta-canard design prioritizes agility.",
+      "Continuously upgraded through F3 and F4 standards."
+    ],
+    "operators": [
+      "French Air and Space Force",
+      "French Navy",
+      "Indian Air Force",
+      "Qatar Emiri Air Force",
+      "Egyptian Air Force"
+    ],
+    "programMilestones": [
+      "1980s: National fighter program launch.",
+      "1986: Rafale A demonstrator first flight.",
+      "2001: Operational entry in French service.",
+      "2020s: F4 system standard fielding."
+    ],
+    "references": [
+      {
+        "label": "Dassault Program Page",
+        "url": "https://www.dassault-aviation.com/en/defense/rafale/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dassault_Rafale"
+      }
+    ],
+    "wikiTitle": "Dassault_Rafale",
+    "videoQuery": "Rafale C airshow demonstration",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "typhoon",
+    "name": "Eurofighter Typhoon",
+    "flag": "EU",
+    "country": "Multinational Europe",
+    "manufacturer": "Eurofighter Jagdflugzeug GmbH",
+    "role": "Air Superiority / Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1994,
+    "introduced": 2003,
+    "topSpeedKmh": 2495,
+    "rangeKm": 2900,
+    "combatRadiusKm": 1389,
+    "serviceCeilingM": 19800,
+    "crew": 1,
+    "engines": "2 x Eurojet EJ200 turbofans",
+    "thrustKn": 180,
+    "radar": "Captor-E AESA radar",
+    "radarRangeKm": 200,
+    "avionics": "PIRATE IRST, digital mission systems, helmet cueing integration",
+    "lengthM": 15.96,
+    "wingspanM": 10.95,
+    "emptyWeightKg": 11000,
+    "maxTakeoffWeightKg": 23500,
+    "payloadKg": 7500,
+    "hardpoints": 13,
+    "climbRateMs": 315,
+    "gLimit": 9,
+    "unitCostMUsd": 124,
+    "stealthScore": 5,
+    "description": "A twin-engine, canard-delta wing multirole fighter. Renowned for exceptional high-altitude speed, agility, and powerful BVR capabilities.",
+    "facts": [
+      "Entered service with partner nations in 2003.",
+      "Built through a multinational industrial consortium.",
+      "Modern capability upgrades continue across fleets."
+    ],
+    "operators": [
+      "Royal Air Force",
+      "German Air Force",
+      "Italian Air Force",
+      "Spanish Air and Space Force",
+      "Austrian Air Force"
+    ],
+    "programMilestones": [
+      "1980s: Program matured from European Fighter Aircraft effort.",
+      "1994: DA1 prototype first flight.",
+      "2003: Initial service entry.",
+      "2020s: Radar and electronic suite modernization."
+    ],
+    "references": [
+      {
+        "label": "Eurofighter Aircraft Page",
+        "url": "https://www.eurofighter.com/the-aircraft"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eurofighter_Typhoon"
+      }
+    ],
+    "wikiTitle": "Eurofighter_Typhoon",
+    "videoQuery": "Eurofighter Typhoon display flight",
+    "featured": true,
+    "modelId": "typhoon"
+  },
+  {
+    "id": "fa-18e",
+    "name": "F/A-18E Super Hornet",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "Boeing",
+    "role": "Carrier Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1995,
+    "introduced": 1999,
+    "topSpeedKmh": 1915,
+    "rangeKm": 3330,
+    "combatRadiusKm": 722,
+    "serviceCeilingM": 15240,
+    "crew": 1,
+    "engines": "2 x General Electric F414-GE-400 turbofans",
+    "thrustKn": 196,
+    "radar": "AN/APG-79 AESA radar",
+    "radarRangeKm": 160,
+    "avionics": "Carrier strike mission computers, Link 16, helmet-mounted cueing",
+    "lengthM": 18.31,
+    "wingspanM": 13.62,
+    "emptyWeightKg": 14550,
+    "maxTakeoffWeightKg": 29900,
+    "payloadKg": 8050,
+    "hardpoints": 11,
+    "climbRateMs": 228,
+    "gLimit": 7.5,
+    "unitCostMUsd": 73,
+    "stealthScore": 4,
+    "description": "The backbone of U.S. naval aviation. A carrier-capable, twin-engine strike fighter delivering robust fleet defense and versatile firepower.",
+    "facts": [
+      "Entered U.S. Navy service in 1999.",
+      "Block III introduces major networking and cockpit upgrades.",
+      "Shares architecture baseline with EA-18G Growler."
+    ],
+    "operators": [
+      "United States Navy",
+      "Royal Australian Air Force"
+    ],
+    "programMilestones": [
+      "1992: Development contract awarded.",
+      "1995: First flight of F/A-18E.",
+      "1999: Fleet introduction.",
+      "2020s: Block III operational deployment."
+    ],
+    "references": [
+      {
+        "label": "Boeing Program Page",
+        "url": "https://www.boeing.com/defense/fa-18-super-hornet"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boeing_F/A-18E/F_Super_Hornet"
+      }
+    ],
+    "wikiTitle": "Boeing_F/A-18E/F_Super_Hornet",
+    "videoQuery": "F/A-18E Super Hornet carrier launch",
+    "featured": true,
+    "modelId": "fa18e"
+  },
+  {
+    "id": "gripen-c",
+    "name": "JAS 39 Gripen C",
+    "flag": "SE",
+    "country": "Sweden",
+    "manufacturer": "Saab",
+    "role": "Light Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1988,
+    "introduced": 1996,
+    "topSpeedKmh": 2200,
+    "rangeKm": 3200,
+    "combatRadiusKm": 800,
+    "serviceCeilingM": 15240,
+    "crew": 1,
+    "engines": "1 x Volvo RM12 turbofan",
+    "thrustKn": 80,
+    "radar": "PS-05/A pulse-doppler radar",
+    "radarRangeKm": 120,
+    "avionics": "Digital cockpit and modular upgrade-oriented mission systems",
+    "lengthM": 14.1,
+    "wingspanM": 8.4,
+    "emptyWeightKg": 6800,
+    "maxTakeoffWeightKg": 14000,
+    "payloadKg": 5300,
+    "hardpoints": 8,
+    "climbRateMs": 254,
+    "gLimit": 9,
+    "unitCostMUsd": 68,
+    "stealthScore": 4,
+    "description": "A highly efficient Swedish lightweight fighter. Optimized for dispersed operations, quick turnaround times, and formidable tactical flexibility.",
+    "facts": [
+      "Designed around low maintenance footprint.",
+      "Operated by multiple export air forces.",
+      "Represents a cost-efficient high-availability fighter architecture."
+    ],
+    "operators": [
+      "Swedish Air Force",
+      "Czech Air Force",
+      "Hungarian Air Force",
+      "Royal Thai Air Force",
+      "Brazilian Air Force"
+    ],
+    "programMilestones": [
+      "1982: Swedish parliament approved JAS development.",
+      "1988: Prototype first flight.",
+      "1996: Operational entry in Sweden.",
+      "2010s-2020s: Ongoing C/D and E/F modernization roadmaps."
+    ],
+    "references": [
+      {
+        "label": "Saab Gripen",
+        "url": "https://www.saab.com/products/gripen-fighter-system"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen"
+      }
+    ],
+    "wikiTitle": "Saab_JAS_39_Gripen",
+    "videoQuery": "JAS 39 Gripen C display",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "su-57",
+    "name": "Sukhoi Su-57",
+    "flag": "RU",
+    "country": "Russia",
+    "manufacturer": "Sukhoi",
+    "role": "Stealth Multirole",
+    "generation": "5th Gen",
+    "firstFlight": 2010,
+    "introduced": 2020,
+    "topSpeedKmh": 2135,
+    "rangeKm": 3500,
+    "combatRadiusKm": 1500,
+    "serviceCeilingM": 20000,
+    "crew": 1,
+    "engines": "2 x Saturn AL-41F1 turbofans",
+    "thrustKn": 294,
+    "radar": "N036 Byelka AESA radar complex",
+    "radarRangeKm": 400,
+    "avionics": "Distributed sensing and modern glass cockpit with integrated EW functions",
+    "lengthM": 20.1,
+    "wingspanM": 14.1,
+    "emptyWeightKg": 18500,
+    "maxTakeoffWeightKg": 35000,
+    "payloadKg": 10000,
+    "hardpoints": 12,
+    "climbRateMs": 350,
+    "gLimit": 9,
+    "unitCostMUsd": 50,
+    "stealthScore": 8,
+    "description": "Russia's advanced fifth-generation fighter. Blends extreme supermaneuverability with low observability to engage high-value aerial targets.",
+    "facts": [
+      "Prototype flight program began in 2010.",
+      "Early production deliveries began in 2020.",
+      "Program remains in phased operational expansion."
+    ],
+    "operators": [
+      "Russian Aerospace Forces"
+    ],
+    "programMilestones": [
+      "2002: PAK FA development phase begins.",
+      "2010: First prototype flight.",
+      "2020: First serial production delivery.",
+      "2020s: Incremental fleet and software maturation."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-57"
+      },
+      {
+        "label": "United Aircraft Corporation",
+        "url": "https://uacrussia.ru/en/"
+      }
+    ],
+    "wikiTitle": "Sukhoi_Su-57",
+    "videoQuery": "Sukhoi Su-57 demonstration flight",
+    "featured": true,
+    "modelId": "su57"
+  },
+  {
+    "id": "kf-21",
+    "name": "KF-21 Boramae",
+    "flag": "KR",
+    "country": "South Korea",
+    "manufacturer": "Korea Aerospace Industries",
+    "role": "Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 2022,
+    "introduced": 2026,
+    "topSpeedKmh": 2200,
+    "rangeKm": 2900,
+    "combatRadiusKm": 1000,
+    "serviceCeilingM": 16700,
+    "crew": 1,
+    "engines": "2 x General Electric F414-KI turbofans",
+    "thrustKn": 196,
+    "radar": "Hanwha Systems AESA radar",
+    "radarRangeKm": 150,
+    "avionics": "Modern digital cockpit and phased domestic systems roadmap",
+    "lengthM": 16.9,
+    "wingspanM": 11.2,
+    "emptyWeightKg": 11700,
+    "maxTakeoffWeightKg": 25700,
+    "payloadKg": 7700,
+    "hardpoints": 10,
+    "climbRateMs": 250,
+    "gLimit": 8,
+    "unitCostMUsd": 65,
+    "stealthScore": 6,
+    "description": "South Korea's next-generation multirole fighter. Bridges advanced fourth-generation reliability with an evolving, low-observable stealth design.",
+    "facts": [
+      "Prototype rollout took place in 2021.",
+      "Flight testing began in 2022.",
+      "Program aims for phased capability growth across blocks."
+    ],
+    "operators": [
+      "Republic of Korea Air Force"
+    ],
+    "programMilestones": [
+      "2015: KF-X development contract signed.",
+      "2021: Prototype rollout in Sacheon.",
+      "2022: First flight completed.",
+      "2026: Planned initial operational fielding."
+    ],
+    "references": [
+      {
+        "label": "KAI Product Page",
+        "url": "https://www.koreaaero.com/EN/Product/Fighter/KF21"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/KAI_KF-21_Boramae"
+      }
+    ],
+    "wikiTitle": "KAI_KF-21_Boramae",
+    "videoQuery": "KF-21 Boramae test flight",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "f-15c",
+    "name": "F-15C Eagle",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "McDonnell Douglas / Boeing",
+    "role": "Air Superiority",
+    "generation": "4th Gen",
+    "firstFlight": 1972,
+    "introduced": 1979,
+    "topSpeedKmh": 2660,
+    "rangeKm": 5550,
+    "combatRadiusKm": 1967,
+    "serviceCeilingM": 19812,
+    "crew": 1,
+    "engines": "2 x Pratt and Whitney F100-PW-220/229 turbofans",
+    "thrustKn": 208,
+    "radar": "AN/APG-63(V)3 AESA upgrades",
+    "radarRangeKm": 160,
+    "avionics": "Digital mission computer modernization and updated data links",
+    "lengthM": 19.43,
+    "wingspanM": 13.05,
+    "emptyWeightKg": 12970,
+    "maxTakeoffWeightKg": 30800,
+    "payloadKg": 7300,
+    "hardpoints": 8,
+    "climbRateMs": 254,
+    "gLimit": 9,
+    "unitCostMUsd": 42,
+    "stealthScore": 2,
+    "description": "An undefeated U.S. air dominance platform. Combines a massive combat radius with tremendous thrust-to-weight performance for aerial supremacy.",
+    "facts": [
+      "Designed around energy maneuverability doctrine.",
+      "Extensive global combat history.",
+      "Modernized with AESA radars in later service."
+    ],
+    "operators": [
+      "United States Air Force",
+      "Saudi Royal Air Force",
+      "Japan Air Self-Defense Force"
+    ],
+    "programMilestones": [
+      "1969: USAF selects F-15 design.",
+      "1972: First flight.",
+      "1979: F-15C service entry.",
+      "2010s+: Fleet modernization programs."
+    ],
+    "references": [
+      {
+        "label": "Boeing F-15 Overview",
+        "url": "https://www.boeing.com/defense/f-15"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+      }
+    ],
+    "wikiTitle": "McDonnell_Douglas_F-15_Eagle",
+    "videoQuery": "F-15C Eagle air combat maneuver",
+    "featured": true,
+    "modelId": "f15c"
+  },
+  {
+    "id": "f-15ex",
+    "name": "F-15EX Eagle II",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "Boeing",
+    "role": "Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 2021,
+    "introduced": 2024,
+    "topSpeedKmh": 2655,
+    "rangeKm": 3900,
+    "combatRadiusKm": 1270,
+    "serviceCeilingM": 18200,
+    "crew": 2,
+    "engines": "2 x General Electric F110-GE-129 turbofans",
+    "thrustKn": 258,
+    "radar": "AN/APG-82(V)1 AESA radar",
+    "radarRangeKm": 200,
+    "avionics": "Open mission systems, large area display, EPAWSS electronic warfare suite",
+    "lengthM": 19.45,
+    "wingspanM": 13.05,
+    "emptyWeightKg": 14500,
+    "maxTakeoffWeightKg": 36740,
+    "payloadKg": 13400,
+    "hardpoints": 12,
+    "climbRateMs": 250,
+    "gLimit": 9,
+    "unitCostMUsd": 97,
+    "stealthScore": 3,
+    "description": "The ultimate evolution of the Eagle lineage. Features an expanded weapons payload, digital fly-by-wire, and advanced electronic warfare tools.",
+    "facts": [
+      "Carries very large air-to-air missile loads.",
+      "Designed for long service life and rapid software updates.",
+      "Complements stealth fleets with capacity and endurance."
+    ],
+    "operators": [
+      "United States Air Force"
+    ],
+    "programMilestones": [
+      "2018: USAF studies next Eagle procurement.",
+      "2021: First F-15EX delivery flight.",
+      "2024: Initial operational integration."
+    ],
+    "references": [
+      {
+        "label": "USAF F-15EX Fact Sheet",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/2783647/f-15ex-eagle-ii/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15_Eagle"
+      }
+    ],
+    "wikiTitle": "McDonnell_Douglas_F-15_Eagle",
+    "videoQuery": "F-15EX Eagle II flight test",
+    "featured": true,
+    "modelId": "f15ex"
+  },
+  {
+    "id": "f-16c",
+    "name": "F-16C Fighting Falcon",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "General Dynamics / Lockheed Martin",
+    "role": "Multirole",
+    "generation": "4th Gen",
+    "firstFlight": 1974,
+    "introduced": 1984,
+    "topSpeedKmh": 2400,
+    "rangeKm": 4220,
+    "combatRadiusKm": 550,
+    "serviceCeilingM": 15240,
+    "crew": 1,
+    "engines": "1 x Pratt and Whitney F100 or GE F110 turbofan",
+    "thrustKn": 129,
+    "radar": "AN/APG-68 or AN/APG-83 AESA on upgraded blocks",
+    "radarRangeKm": 150,
+    "avionics": "Fly-by-wire controls, helmet cueing, modern datalinks",
+    "lengthM": 15.03,
+    "wingspanM": 9.45,
+    "emptyWeightKg": 8570,
+    "maxTakeoffWeightKg": 19187,
+    "payloadKg": 7700,
+    "hardpoints": 9,
+    "climbRateMs": 254,
+    "gLimit": 9,
+    "unitCostMUsd": 55,
+    "stealthScore": 3,
+    "description": "A legendary, lightweight multirole fighter. Proven in global combat, it delivers exceptional dogfighting maneuverability and precision strikes.",
+    "facts": [
+      "One of the most widely operated fighters ever built.",
+      "Introduced high-agility relaxed stability design.",
+      "Still in production for export customers."
+    ],
+    "operators": [
+      "United States Air Force",
+      "Turkish Air Force",
+      "Hellenic Air Force",
+      "Republic of Korea Air Force",
+      "Royal Danish Air Force"
+    ],
+    "programMilestones": [
+      "1974: YF-16 first flight.",
+      "1978: F-16 enters USAF service.",
+      "1990s-2020s: Ongoing block upgrades and exports."
+    ],
+    "references": [
+      {
+        "label": "Lockheed Martin F-16",
+        "url": "https://www.lockheedmartin.com/en-us/products/f-16.html"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+      }
+    ],
+    "wikiTitle": "General_Dynamics_F-16_Fighting_Falcon",
+    "videoQuery": "F-16C Viper high alpha display",
+    "featured": true,
+    "modelId": "f16c"
+  },
+  {
+    "id": "f-14d",
+    "name": "F-14D Tomcat",
+    "flag": "US",
+    "country": "United States",
+    "manufacturer": "Grumman",
+    "role": "Fleet Defense Interceptor",
+    "generation": "4th Gen",
+    "firstFlight": 1970,
+    "introduced": 1991,
+    "topSpeedKmh": 2485,
+    "rangeKm": 2960,
+    "combatRadiusKm": 926,
+    "serviceCeilingM": 17070,
+    "crew": 2,
+    "engines": "2 x General Electric F110-GE-400 turbofans",
+    "thrustKn": 251,
+    "radar": "AN/APG-71 pulse-doppler radar",
+    "radarRangeKm": 250,
+    "avionics": "Long-range AWG/APG lineage intercept suite and naval datalinks",
+    "lengthM": 19.1,
+    "wingspanM": 19.55,
+    "emptyWeightKg": 19838,
+    "maxTakeoffWeightKg": 33724,
+    "payloadKg": 6577,
+    "hardpoints": 8,
+    "climbRateMs": 229,
+    "gLimit": 7.5,
+    "unitCostMUsd": 38,
+    "stealthScore": 1,
+    "description": "The iconic variable-sweep wing naval interceptor. Designed to protect carrier battle groups with its formidable long-range Phoenix missiles.",
+    "facts": [
+      "Famous for variable-sweep wings.",
+      "Integrated long-range Phoenix missile intercept capability.",
+      "Retired from U.S. service in 2006."
+    ],
+    "operators": [
+      "United States Navy",
+      "Islamic Republic of Iran Air Force"
+    ],
+    "programMilestones": [
+      "1970: F-14 prototype first flight.",
+      "1974: U.S. Navy service introduction.",
+      "1990s: F-14D modernization.",
+      "2006: U.S. retirement."
+    ],
+    "references": [
+      {
+        "label": "Naval History Archive",
+        "url": "https://www.history.navy.mil/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat"
+      }
+    ],
+    "wikiTitle": "Grumman_F-14_Tomcat",
+    "videoQuery": "F-14 Tomcat carrier operations",
+    "featured": true,
+    "modelId": "f14d"
+  },
+  {
+    "id": "mig-29",
+    "name": "MiG-29 Fulcrum",
+    "flag": "RU",
+    "country": "Russia",
+    "manufacturer": "Mikoyan",
+    "role": "Air Superiority",
+    "generation": "4th Gen",
+    "firstFlight": 1977,
+    "introduced": 1983,
+    "topSpeedKmh": 2450,
+    "rangeKm": 1430,
+    "combatRadiusKm": 700,
+    "serviceCeilingM": 18000,
+    "crew": 1,
+    "engines": "2 x Klimov RD-33 turbofans",
+    "thrustKn": 162,
+    "radar": "N019/N010 pulse-doppler radar family",
+    "radarRangeKm": 120,
+    "avionics": "Helmet-mounted sight and IRST-centric short-range dogfight architecture",
+    "lengthM": 17.37,
+    "wingspanM": 11.4,
+    "emptyWeightKg": 10900,
+    "maxTakeoffWeightKg": 18480,
+    "payloadKg": 4500,
+    "hardpoints": 7,
+    "climbRateMs": 330,
+    "gLimit": 9,
+    "unitCostMUsd": 22,
+    "stealthScore": 2,
+    "description": "A compact, twin-engine Soviet front-line fighter. Built for rapid scramble response, outstanding climb rates, and lethal close-range combat.",
+    "facts": [
+      "Paired doctrinally with heavier Su-27.",
+      "Known for strong close-in maneuverability.",
+      "Exported widely with multiple upgrade lines."
+    ],
+    "operators": [
+      "Russian Aerospace Forces",
+      "Indian Air Force",
+      "Polish Air Force",
+      "Ukrainian Air Force"
+    ],
+    "programMilestones": [
+      "1977: First prototype flight.",
+      "1983: Soviet service entry.",
+      "1990s+: Numerous export modernization programs."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-29"
+      },
+      {
+        "label": "FlightGlobal Directory",
+        "url": "https://www.flightglobal.com/"
+      }
+    ],
+    "wikiTitle": "Mikoyan_MiG-29",
+    "videoQuery": "MiG-29 aerobatic display",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "su-35s",
+    "name": "Sukhoi Su-35S",
+    "flag": "RU",
+    "country": "Russia",
+    "manufacturer": "Sukhoi",
+    "role": "Air Superiority / Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 2008,
+    "introduced": 2014,
+    "topSpeedKmh": 2500,
+    "rangeKm": 3600,
+    "combatRadiusKm": 1600,
+    "serviceCeilingM": 18000,
+    "crew": 1,
+    "engines": "2 x Saturn AL-41F1S turbofans with TVC",
+    "thrustKn": 284,
+    "radar": "Irbis-E passive electronically scanned array radar",
+    "radarRangeKm": 350,
+    "avionics": "Advanced mission computer and thrust-vectoring flight control integration",
+    "lengthM": 21.9,
+    "wingspanM": 15.3,
+    "emptyWeightKg": 19000,
+    "maxTakeoffWeightKg": 34500,
+    "payloadKg": 8000,
+    "hardpoints": 12,
+    "climbRateMs": 280,
+    "gLimit": 9,
+    "unitCostMUsd": 85,
+    "stealthScore": 3,
+    "description": "A heavily upgraded Flanker derivative. Emphasizes sheer kinematic performance, extraordinary range, and advanced thrust-vectoring maneuverability.",
+    "facts": [
+      "Features 3D thrust vectoring in production versions.",
+      "Large fuel fraction supports long station endurance.",
+      "Exported to multiple customers."
+    ],
+    "operators": [
+      "Russian Aerospace Forces",
+      "People's Liberation Army Air Force"
+    ],
+    "programMilestones": [
+      "2008: Su-35BM first flight program phase.",
+      "2014: Russian service introduction.",
+      "2010s-2020s: Export deliveries and updates."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-35"
+      },
+      {
+        "label": "Rostec",
+        "url": "https://rostec.ru/en/"
+      }
+    ],
+    "wikiTitle": "Sukhoi_Su-35",
+    "videoQuery": "Su-35S supermaneuverability display",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "su-27",
+    "name": "Sukhoi Su-27 Flanker",
+    "flag": "RU",
+    "country": "Russia",
+    "manufacturer": "Sukhoi",
+    "role": "Air Superiority",
+    "generation": "4th Gen",
+    "firstFlight": 1977,
+    "introduced": 1985,
+    "topSpeedKmh": 2500,
+    "rangeKm": 3530,
+    "combatRadiusKm": 1340,
+    "serviceCeilingM": 19000,
+    "crew": 1,
+    "engines": "2 x Saturn AL-31F turbofans",
+    "thrustKn": 245,
+    "radar": "N001 pulse-doppler radar",
+    "radarRangeKm": 130,
+    "avionics": "IRST and helmet sight optimized for visual-range engagement",
+    "lengthM": 21.94,
+    "wingspanM": 14.7,
+    "emptyWeightKg": 16800,
+    "maxTakeoffWeightKg": 30500,
+    "payloadKg": 8000,
+    "hardpoints": 10,
+    "climbRateMs": 300,
+    "gLimit": 9,
+    "unitCostMUsd": 30,
+    "stealthScore": 2,
+    "description": "The original Soviet heavy air superiority fighter. Combines massive internal fuel capacity with incredible aerodynamic agility for deep strike.",
+    "facts": [
+      "Spawned a large multidecade Flanker family.",
+      "Balanced speed, range, and agility in one platform.",
+      "Still active in modernized forms."
+    ],
+    "operators": [
+      "Russian Aerospace Forces",
+      "People's Liberation Army Air Force",
+      "Ukrainian Air Force"
+    ],
+    "programMilestones": [
+      "1977: Prototype first flight.",
+      "1985: Soviet service entry.",
+      "1990s+: Derivative development across multiple nations."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-27"
+      },
+      {
+        "label": "FlightGlobal Directory",
+        "url": "https://www.flightglobal.com/"
+      }
+    ],
+    "wikiTitle": "Sukhoi_Su-27",
+    "videoQuery": "Sukhoi Su-27 high speed pass",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "mig-31bm",
+    "name": "MiG-31BM Foxhound",
+    "flag": "RU",
+    "country": "Russia",
+    "manufacturer": "Mikoyan",
+    "role": "Long-Range Interceptor",
+    "generation": "4th Gen",
+    "firstFlight": 1975,
+    "introduced": 2011,
+    "topSpeedKmh": 3000,
+    "rangeKm": 3000,
+    "combatRadiusKm": 720,
+    "serviceCeilingM": 20600,
+    "crew": 2,
+    "engines": "2 x Soloviev D-30F6 turbofans",
+    "thrustKn": 304,
+    "radar": "Zaslon-M phased-array radar",
+    "radarRangeKm": 320,
+    "avionics": "High-speed interception suite and long-range missile control system",
+    "lengthM": 22.69,
+    "wingspanM": 13.46,
+    "emptyWeightKg": 21820,
+    "maxTakeoffWeightKg": 46200,
+    "payloadKg": 9000,
+    "hardpoints": 8,
+    "climbRateMs": 208,
+    "gLimit": 5,
+    "unitCostMUsd": 38,
+    "stealthScore": 1,
+    "description": "An extreme-speed, high-altitude interceptor. Designed for vast airspace denial, capable of tracking and engaging targets at Mach 2.83 speeds.",
+    "facts": [
+      "Among the fastest combat aircraft still in service.",
+      "Not optimized for close-in dogfights.",
+      "BM upgrade adds multirole strike capability."
+    ],
+    "operators": [
+      "Russian Aerospace Forces",
+      "Kazakh Air Defense Forces"
+    ],
+    "programMilestones": [
+      "1975: MiG-31 development flight phase starts.",
+      "1981: Initial service entry.",
+      "2011: MiG-31BM modernization accepted."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-31"
+      },
+      {
+        "label": "Russian MOD",
+        "url": "https://eng.mil.ru/en/index.htm"
+      }
+    ],
+    "wikiTitle": "Mikoyan_MiG-31",
+    "videoQuery": "MiG-31BM intercept training",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "j-20",
+    "name": "Chengdu J-20",
+    "flag": "CN",
+    "country": "China",
+    "manufacturer": "Chengdu Aircraft Corporation",
+    "role": "Stealth Air Superiority",
+    "generation": "5th Gen",
+    "firstFlight": 2011,
+    "introduced": 2017,
+    "topSpeedKmh": 2100,
+    "rangeKm": 5500,
+    "combatRadiusKm": 2000,
+    "serviceCeilingM": 20000,
+    "crew": 1,
+    "engines": "2 x WS-10C / WS-15 class turbofans",
+    "thrustKn": 294,
+    "radar": "Type 1475 AESA radar",
+    "radarRangeKm": 300,
+    "avionics": "Advanced sensor fusion and distributed aperture with networked targeting",
+    "lengthM": 20.4,
+    "wingspanM": 13.5,
+    "emptyWeightKg": 19000,
+    "maxTakeoffWeightKg": 37000,
+    "payloadKg": 11000,
+    "hardpoints": 8,
+    "climbRateMs": 300,
+    "gLimit": 9,
+    "unitCostMUsd": 110,
+    "stealthScore": 9,
+    "description": "China's premier stealth air superiority platform. Focuses on long-range supersonic engagement, advanced sensor networking, and deep strikes.",
+    "facts": [
+      "Configured for internal carriage in low-observable mode.",
+      "Fielded in growing numbers with the PLAAF.",
+      "Receives iterative engine and avionics upgrades."
+    ],
+    "operators": [
+      "People's Liberation Army Air Force"
+    ],
+    "programMilestones": [
+      "2011: First prototype flight.",
+      "2017: Service entry announced.",
+      "2020s: Expanded production and variant development."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_J-20"
+      },
+      {
+        "label": "Aviation Week",
+        "url": "https://aviationweek.com/"
+      }
+    ],
+    "wikiTitle": "Chengdu_J-20",
+    "videoQuery": "Chengdu J-20 flight demonstration",
+    "featured": true,
+    "modelId": "j20"
+  },
+  {
+    "id": "j-10c",
+    "name": "Chengdu J-10C",
+    "flag": "CN",
+    "country": "China",
+    "manufacturer": "Chengdu Aircraft Corporation",
+    "role": "Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1998,
+    "introduced": 2018,
+    "topSpeedKmh": 2200,
+    "rangeKm": 1850,
+    "combatRadiusKm": 700,
+    "serviceCeilingM": 18000,
+    "crew": 1,
+    "engines": "1 x WS-10B turbofan",
+    "thrustKn": 132,
+    "radar": "AESA radar (J-10C standard)",
+    "radarRangeKm": 170,
+    "avionics": "Modern glass cockpit with domestic datalink and electronic warfare suite",
+    "lengthM": 16.9,
+    "wingspanM": 9.75,
+    "emptyWeightKg": 9750,
+    "maxTakeoffWeightKg": 19277,
+    "payloadKg": 5600,
+    "hardpoints": 11,
+    "climbRateMs": 240,
+    "gLimit": 8,
+    "unitCostMUsd": 45,
+    "stealthScore": 4,
+    "description": "A highly capable Chinese canard-delta multirole fighter. Upgraded with modern AESA radar and advanced avionics for comprehensive air missions.",
+    "facts": [
+      "J-10C introduces newer radar and EW capabilities.",
+      "Exported to Pakistan as J-10CE.",
+      "Acts as a medium-weight complement to heavier fleets."
+    ],
+    "operators": [
+      "People's Liberation Army Air Force",
+      "Pakistan Air Force"
+    ],
+    "programMilestones": [
+      "1998: J-10 first flight.",
+      "2004: Initial operational service.",
+      "2018: J-10C standard enters broad service."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chengdu_J-10"
+      },
+      {
+        "label": "Jane's",
+        "url": "https://www.janes.com/"
+      }
+    ],
+    "wikiTitle": "Chengdu_J-10",
+    "videoQuery": "J-10C display flight",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "j-35",
+    "name": "Shenyang J-35",
+    "flag": "CN",
+    "country": "China",
+    "manufacturer": "Shenyang Aircraft Corporation",
+    "role": "Stealth Multirole",
+    "generation": "5th Gen",
+    "firstFlight": 2021,
+    "introduced": 2025,
+    "topSpeedKmh": 2200,
+    "rangeKm": 2000,
+    "combatRadiusKm": 1200,
+    "serviceCeilingM": 18000,
+    "crew": 1,
+    "engines": "2 x WS-13E class turbofans",
+    "thrustKn": 190,
+    "radar": "AESA radar optimized for low-observable mission set",
+    "radarRangeKm": 220,
+    "avionics": "Carrier and land-based mission systems with networked sensor fusion",
+    "lengthM": 17.3,
+    "wingspanM": 11.5,
+    "emptyWeightKg": 14000,
+    "maxTakeoffWeightKg": 28000,
+    "payloadKg": 8000,
+    "hardpoints": 8,
+    "climbRateMs": 250,
+    "gLimit": 9,
+    "unitCostMUsd": 95,
+    "stealthScore": 8,
+    "description": "China's emerging carrier-capable stealth fighter. Designed to project fifth-generation naval airpower with advanced networked sensor systems.",
+    "facts": [
+      "Developed with both naval and air force variants in mind.",
+      "Targets export and domestic deployment tracks.",
+      "Program remains in active maturation."
+    ],
+    "operators": [
+      "People's Liberation Army Air Force (planned)",
+      "People's Liberation Army Naval Air Force (planned)"
+    ],
+    "programMilestones": [
+      "2010s: FC-31 demonstrator campaign.",
+      "2020s: J-35 development and naval testing updates.",
+      "2025+: Early fielding trajectory."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shenyang_J-35"
+      },
+      {
+        "label": "SAC",
+        "url": "https://www.sac.com.cn/"
+      }
+    ],
+    "wikiTitle": "Shenyang_J-35",
+    "videoQuery": "Shenyang J-35 test flights",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "mirage-2000-5",
+    "name": "Mirage 2000-5",
+    "flag": "FR",
+    "country": "France",
+    "manufacturer": "Dassault Aviation",
+    "role": "Multirole",
+    "generation": "4th Gen",
+    "firstFlight": 1978,
+    "introduced": 1999,
+    "topSpeedKmh": 2336,
+    "rangeKm": 3335,
+    "combatRadiusKm": 740,
+    "serviceCeilingM": 17060,
+    "crew": 1,
+    "engines": "1 x SNECMA M53-P2 turbofan",
+    "thrustKn": 95,
+    "radar": "RDY multi-target radar",
+    "radarRangeKm": 130,
+    "avionics": "Glass cockpit upgrade with improved BVR engagement support",
+    "lengthM": 14.36,
+    "wingspanM": 9.13,
+    "emptyWeightKg": 7500,
+    "maxTakeoffWeightKg": 17000,
+    "payloadKg": 6300,
+    "hardpoints": 9,
+    "climbRateMs": 285,
+    "gLimit": 9,
+    "unitCostMUsd": 47,
+    "stealthScore": 2,
+    "description": "A fast-climbing French delta-wing interceptor. Modernized for versatile multirole missions while retaining its classic, highly agile profile.",
+    "facts": [
+      "Popular export platform with multiple standards.",
+      "Fast-climb single-engine delta with mature logistics chain.",
+      "Still operational in several air forces."
+    ],
+    "operators": [
+      "French Air and Space Force",
+      "Hellenic Air Force",
+      "Indian Air Force",
+      "United Arab Emirates Air Force"
+    ],
+    "programMilestones": [
+      "1978: Mirage 2000 first flight.",
+      "1984: Initial service entry.",
+      "1990s-2000s: Mirage 2000-5 modernization wave."
+    ],
+    "references": [
+      {
+        "label": "Dassault Mirage",
+        "url": "https://www.dassault-aviation.com/en/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dassault_Mirage_2000"
+      }
+    ],
+    "wikiTitle": "Dassault_Mirage_2000",
+    "videoQuery": "Mirage 2000-5 display",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "tejas-mk1a",
+    "name": "HAL Tejas Mk1A",
+    "flag": "IN",
+    "country": "India",
+    "manufacturer": "Hindustan Aeronautics Limited",
+    "role": "Light Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 2024,
+    "introduced": 2024,
+    "topSpeedKmh": 2205,
+    "rangeKm": 1850,
+    "combatRadiusKm": 500,
+    "serviceCeilingM": 16000,
+    "crew": 1,
+    "engines": "1 x GE F404-IN20 turbofan",
+    "thrustKn": 98,
+    "radar": "Uttam AESA radar (Mk1A standard)",
+    "radarRangeKm": 150,
+    "avionics": "Digital flight controls, modern EW suite, and network-enabled cockpit",
+    "lengthM": 13.2,
+    "wingspanM": 8.2,
+    "emptyWeightKg": 6500,
+    "maxTakeoffWeightKg": 13500,
+    "payloadKg": 4000,
+    "hardpoints": 8,
+    "climbRateMs": 240,
+    "gLimit": 8,
+    "unitCostMUsd": 43,
+    "stealthScore": 3,
+    "description": "India's indigenous light combat aircraft. A compact, highly agile platform featuring modern digital flight controls and an advanced AESA radar.",
+    "facts": [
+      "Small, lightweight platform with modernized mission systems.",
+      "Mk1A introduces radar and maintainability upgrades.",
+      "Core pillar of India's indigenous combat aviation roadmap."
+    ],
+    "operators": [
+      "Indian Air Force"
+    ],
+    "programMilestones": [
+      "2001: Baseline Tejas first flight.",
+      "2020s: Mk1A avionics and maintainability upgrade package finalized.",
+      "2024: Tejas Mk1A first flight campaign.",
+      "2020s: Mk1A production and squadron induction."
+    ],
+    "references": [
+      {
+        "label": "HAL Tejas",
+        "url": "https://www.hal-india.co.in/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/HAL_Tejas"
+      }
+    ],
+    "wikiTitle": "HAL_Tejas",
+    "videoQuery": "HAL Tejas Mk1A demonstration",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "jf-17-block3",
+    "name": "JF-17 Thunder Block III",
+    "flag": "PK",
+    "country": "Pakistan / China",
+    "manufacturer": "PAC / Chengdu",
+    "role": "Light Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 2019,
+    "introduced": 2023,
+    "topSpeedKmh": 1910,
+    "rangeKm": 3480,
+    "combatRadiusKm": 1200,
+    "serviceCeilingM": 16700,
+    "crew": 1,
+    "engines": "1 x Klimov RD-93MA turbofan",
+    "thrustKn": 84,
+    "radar": "KLJ-7A AESA radar",
+    "radarRangeKm": 170,
+    "avionics": "Block III cockpit, helmet cueing, and enhanced electronic warfare suite",
+    "lengthM": 14.93,
+    "wingspanM": 9.45,
+    "emptyWeightKg": 6586,
+    "maxTakeoffWeightKg": 12700,
+    "payloadKg": 3700,
+    "hardpoints": 7,
+    "climbRateMs": 250,
+    "gLimit": 8,
+    "unitCostMUsd": 32,
+    "stealthScore": 3,
+    "description": "A cost-effective, multirole tactical fighter. Upgraded with a cutting-edge AESA radar and helmet-mounted cueing for versatile air combat.",
+    "facts": [
+      "Developed jointly by Pakistan and China.",
+      "Block III adds AESA and major avionics refresh.",
+      "Built around cost-effective fleet expansion goals."
+    ],
+    "operators": [
+      "Pakistan Air Force",
+      "Myanmar Air Force",
+      "Nigerian Air Force"
+    ],
+    "programMilestones": [
+      "2003: Baseline JF-17 first flight.",
+      "2010: Initial PAF induction of earlier blocks.",
+      "2019: Block III prototype first flight phase.",
+      "2023: Block III frontline integration."
+    ],
+    "references": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/CAC/PAC_JF-17_Thunder"
+      },
+      {
+        "label": "Pakistan Aeronautical Complex",
+        "url": "https://www.pac.org.pk/"
+      }
+    ],
+    "wikiTitle": "CAC/PAC_JF-17_Thunder",
+    "videoQuery": "JF-17 Block III display",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "f-2",
+    "name": "Mitsubishi F-2",
+    "flag": "JP",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi Heavy Industries",
+    "role": "Multirole",
+    "generation": "4.5 Gen",
+    "firstFlight": 1995,
+    "introduced": 2000,
+    "topSpeedKmh": 2124,
+    "rangeKm": 3000,
+    "combatRadiusKm": 830,
+    "serviceCeilingM": 18000,
+    "crew": 1,
+    "engines": "1 x General Electric F110-IHI-129 turbofan",
+    "thrustKn": 131,
+    "radar": "J/APG-1 AESA radar",
+    "radarRangeKm": 120,
+    "avionics": "Advanced anti-ship strike mission architecture and Japanese domestic subsystems",
+    "lengthM": 15.52,
+    "wingspanM": 11.13,
+    "emptyWeightKg": 9527,
+    "maxTakeoffWeightKg": 22100,
+    "payloadKg": 8000,
+    "hardpoints": 13,
+    "climbRateMs": 240,
+    "gLimit": 9,
+    "unitCostMUsd": 127,
+    "stealthScore": 3,
+    "description": "Japan's enlarged F-16 derivative. Specially optimized for anti-ship strike missions, featuring advanced composite wings and domestic sensors.",
+    "facts": [
+      "One of the earliest operational AESA-equipped fighters.",
+      "Features larger composite wing than baseline F-16.",
+      "Core component of JASDF maritime defense posture."
+    ],
+    "operators": [
+      "Japan Air Self-Defense Force"
+    ],
+    "programMilestones": [
+      "1988: FS-X development agreement.",
+      "1995: XF-2 first flight.",
+      "2000: Operational entry."
+    ],
+    "references": [
+      {
+        "label": "JASDF",
+        "url": "https://www.mod.go.jp/asdf/"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mitsubishi_F-2"
+      }
+    ],
+    "wikiTitle": "Mitsubishi_F-2",
+    "videoQuery": "Mitsubishi F-2 flight demo",
+    "featured": false,
+    "modelId": null
+  },
+  {
+    "id": "kaan",
+    "name": "TAI Kaan",
+    "flag": "TR",
+    "country": "Turkey",
+    "manufacturer": "Turkish Aerospace Industries",
+    "role": "Stealth Air Superiority",
+    "generation": "5th Gen",
+    "firstFlight": 2024,
+    "introduced": 2030,
+    "topSpeedKmh": 2200,
+    "rangeKm": 3000,
+    "combatRadiusKm": 1100,
+    "serviceCeilingM": 17000,
+    "crew": 1,
+    "engines": "2 x F110-class turbofans (initial blocks)",
+    "thrustKn": 256,
+    "radar": "Domestic AESA radar suite",
+    "radarRangeKm": 250,
+    "avionics": "Open architecture mission system with low-observable sensor fusion roadmap",
+    "lengthM": 21,
+    "wingspanM": 14,
+    "emptyWeightKg": 18000,
+    "maxTakeoffWeightKg": 27000,
+    "payloadKg": 10000,
+    "hardpoints": 10,
+    "climbRateMs": 280,
+    "gLimit": 9,
+    "unitCostMUsd": 100,
+    "stealthScore": 9,
+    "description": "Turkey's ambitious fifth-generation fighter program. Designed to ensure domestic airpower autonomy with low observability and sensor fusion.",
+    "facts": [
+      "First flight achieved in 2024.",
+      "Planned as F-16 replacement over time.",
+      "Program is in active development and test expansion."
+    ],
+    "operators": [
+      "Turkish Air Force (planned)"
+    ],
+    "programMilestones": [
+      "2010s: TF-X conceptual design phase.",
+      "2023: Prototype rollout.",
+      "2024: Maiden flight.",
+      "2030s: Planned progressive service entry."
+    ],
+    "references": [
+      {
+        "label": "TAI Kaan",
+        "url": "https://www.tusas.com/en"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/TAI_TF_Kaan"
+      }
+    ],
+    "wikiTitle": "TAI_TF_Kaan",
+    "videoQuery": "TAI Kaan maiden flight",
+    "featured": false,
+    "modelId": null
+  }
+]

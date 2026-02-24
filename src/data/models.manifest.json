@@ -1,0 +1,82 @@
+[
+  {
+    "id": "f22",
+    "aircraftId": "f-22",
+    "path": "/models/verified/f22.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "f35a",
+    "aircraftId": "f-35a",
+    "path": "/models/verified/f35a.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "typhoon",
+    "aircraftId": "typhoon",
+    "path": "/models/verified/typhoon.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "fa18e",
+    "aircraftId": "fa-18e",
+    "path": "/models/verified/fa18e.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "su57",
+    "aircraftId": "su-57",
+    "path": "/models/verified/su57.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "f15c",
+    "aircraftId": "f-15c",
+    "path": "/models/verified/f15c.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "f15ex",
+    "aircraftId": "f-15ex",
+    "path": "/models/verified/f15ex.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "f16c",
+    "aircraftId": "f-16c",
+    "path": "/models/verified/f16c.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "f14d",
+    "aircraftId": "f-14d",
+    "path": "/models/verified/f14d.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "id": "j20",
+    "aircraftId": "j-20",
+    "path": "/models/verified/j20.glb",
+    "scale": 1,
+    "position": [0, 0, 0],
+    "rotation": [0, 0, 0]
+  }
+]

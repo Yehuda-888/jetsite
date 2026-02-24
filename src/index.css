@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+@theme {
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-term: 'VT323', monospace;
+  --font-mono: 'Share Tech Mono', monospace;
+  
+  --color-neon-green: #00ff00;
+  --color-dark-green: #001100;
+  --color-term-bg: #030803;
+  --color-term-red: #ff003c;
+  --color-term-blue: #00ffff;
+}
+
+* {
+  cursor: crosshair !important;
+}
+
+@layer base {
+  :root {
+    font-family: var(--font-term);
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-term-bg text-neon-green m-0 min-h-screen overflow-x-hidden;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.7);
+    /* CRT Scanlines Background Overlay */
+    background-image: 
+      linear-gradient(rgba(0, 255, 0, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 255, 0, 0.05) 1px, transparent 1px);
+    background-size: 2px 2px, 2px 2px;
+  }
+
+  #root {
+    @apply min-h-screen flex flex-col relative z-10;
+  }
+
+  /* Global CRT Overlay & Flicker */
+  #root::after {
+    content: " ";
+    display: block;
+    position: fixed;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%);
+    z-index: 9999;
+    background-size: 100% 4px;
+    pointer-events: none;
+    animation: flicker 0.15s infinite;
+  }
+
+  /* Glitch Scrollbar */
+  ::-webkit-scrollbar {
+    width: 12px;
+    background: var(--color-term-bg);
+    border-left: 1px solid var(--color-neon-green);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-neon-green);
+    border: 2px solid var(--color-term-bg);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-term-red);
+  }
+
+  /* Terminal Inputs */
+  input, select, button {
+    @apply font-mono outline-none;
+  }
+}
+
+/* --- INSANE ANIMATIONS --- */
+
+@keyframes flicker {
+  0% { opacity: 0.95; }
+  50% { opacity: 0.85; }
+  100% { opacity: 0.98; }
+}
+
+.glitch-hover {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.1s ease-in-out;
+}
+
+.glitch-hover:hover {
+  background-color: var(--color-neon-green);
+  color: #000;
+  text-shadow: none;
+  box-shadow: 0 0 10px var(--color-neon-green), inset 0 0 10px rgba(0,0,0,0.5);
+}
+
+.glitch-hover:hover::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: skewX(-45deg);
+  animation: shine 0.5s infinite;
+}
+
+@keyframes shine {
+  0% { left: -100%; }
+  50% { left: 200%; }
+  100% { left: 200%; }
+}
+
+.glitch-text {
+  position: relative;
+  display: inline-block;
+}
+
+.glitch-text::before,
+.glitch-text::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.8;
+}
+
+.glitch-text::before {
+  left: 2px;
+  text-shadow: -2px 0 red;
+  animation: noise-anim-2 3s infinite linear alternate-reverse;
+}
+
+.glitch-text::after {
+  left: -2px;
+  text-shadow: -2px 0 blue;
+  animation: noise-anim 2s infinite linear alternate-reverse;
+}
+
+@keyframes noise-anim {
+  0% { clip-path: inset(40% 0 61% 0); }
+  20% { clip-path: inset(92% 0 1% 0); }
+  40% { clip-path: inset(43% 0 1% 0); }
+  60% { clip-path: inset(25% 0 58% 0); }
+  80% { clip-path: inset(54% 0 7% 0); }
+  100% { clip-path: inset(58% 0 43% 0); }
+}
+
+@keyframes noise-anim-2 {
+  0% { clip-path: inset(15% 0 81% 0); }
+  20% { clip-path: inset(8% 0 85% 0); }
+  40% { clip-path: inset(54% 0 41% 0); }
+  60% { clip-path: inset(18% 0 16% 0); }
+  80% { clip-path: inset(72% 0 10% 0); }
+  100% { clip-path: inset(36% 0 64% 0); }
+}
+
+.terminal-border {
+  border: 2px solid var(--color-neon-green);
+  box-shadow: 0 0 10px var(--color-neon-green), inset 0 0 10px var(--color-neon-green);
+  background-color: rgba(0, 20, 0, 0.7);
+}
+
+.terminal-panel {
+  border: 1px dotted var(--color-neon-green);
+  background: var(--color-term-bg);
+  position: relative;
+}
+
+.terminal-panel::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  box-shadow: inset 0 0 20px rgba(0, 255, 0, 0.2);
+  pointer-events: none;
+}
+
+/* Cursor Blink */
+.cursor-blink {
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+  50% { opacity: 0; }
+}
